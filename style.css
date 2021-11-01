@@ -1,0 +1,48 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+
+    background-color: rgb(255, 255, 255);
+    color: #333333;
+    margin: 40px auto 10px auto;
+    width: 900px;
+    height: auto;
+}
+
+
+h1{
+    font-family: 'Syncopate', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    color: rgb(51, 133, 255);
+    margin: 0px auto 0px auto;
+}
+
+h2{
+    font-family: 'Syncopate', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #ff3ef5;
+    margin: 60px auto 10px auto;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #333333;
+    margin: 43px auto 10px auto;
+}
+
+a{
+    color: rgb(51, 133, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    color:rgb(51, 88, 255);
+}
+
+
+
+
